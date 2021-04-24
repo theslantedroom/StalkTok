@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StalkTalk/static/css/main.aa68b26c.chunk.css",
+    "main.js": "/StalkTalk/static/js/main.0e675494.chunk.js",
+    "main.js.map": "/StalkTalk/static/js/main.0e675494.chunk.js.map",
+    "runtime-main.js": "/StalkTalk/static/js/runtime-main.e843b955.js",
+    "runtime-main.js.map": "/StalkTalk/static/js/runtime-main.e843b955.js.map",
+    "static/js/2.7f426d4d.chunk.js": "/StalkTalk/static/js/2.7f426d4d.chunk.js",
+    "static/js/2.7f426d4d.chunk.js.map": "/StalkTalk/static/js/2.7f426d4d.chunk.js.map",
+    "static/js/3.9f3b3ba7.chunk.js": "/StalkTalk/static/js/3.9f3b3ba7.chunk.js",
+    "static/js/3.9f3b3ba7.chunk.js.map": "/StalkTalk/static/js/3.9f3b3ba7.chunk.js.map",
+    "index.html": "/StalkTalk/index.html",
+    "static/css/main.aa68b26c.chunk.css.map": "/StalkTalk/static/css/main.aa68b26c.chunk.css.map",
+    "static/js/2.7f426d4d.chunk.js.LICENSE.txt": "/StalkTalk/static/js/2.7f426d4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e843b955.js",
+    "static/js/2.7f426d4d.chunk.js",
+    "static/css/main.aa68b26c.chunk.css",
+    "static/js/main.0e675494.chunk.js"
+  ]
+}
