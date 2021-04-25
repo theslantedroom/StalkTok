@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/StalkTok/static/css/main.546fc14d.chunk.css",
-    "main.js": "/StalkTok/static/js/main.55383180.chunk.js",
-    "main.js.map": "/StalkTok/static/js/main.55383180.chunk.js.map",
+    "main.js": "/StalkTok/static/js/main.f4291437.chunk.js",
+    "main.js.map": "/StalkTok/static/js/main.f4291437.chunk.js.map",
     "runtime-main.js": "/StalkTok/static/js/runtime-main.fd0c370f.js",
     "runtime-main.js.map": "/StalkTok/static/js/runtime-main.fd0c370f.js.map",
     "static/js/2.a2127eee.chunk.js": "/StalkTok/static/js/2.a2127eee.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/StalkTok/index.html",
     "static/css/main.546fc14d.chunk.css.map": "/StalkTok/static/css/main.546fc14d.chunk.css.map",
     "static/js/2.a2127eee.chunk.js.LICENSE.txt": "/StalkTok/static/js/2.a2127eee.chunk.js.LICENSE.txt",
-    "static/media/stalktok.395d0a04.mp3": "/StalkTok/static/media/stalktok.395d0a04.mp3"
+    "static/media/stoktoksfx.002d3735.mp3": "/StalkTok/static/media/stoktoksfx.002d3735.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.fd0c370f.js",
     "static/js/2.a2127eee.chunk.js",
     "static/css/main.546fc14d.chunk.css",
-    "static/js/main.55383180.chunk.js"
+    "static/js/main.f4291437.chunk.js"
   ]
 }
