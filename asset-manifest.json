@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/StalkTok/static/css/main.4b003057.chunk.css",
-    "main.js": "/StalkTok/static/js/main.ca6772d7.chunk.js",
-    "main.js.map": "/StalkTok/static/js/main.ca6772d7.chunk.js.map",
+    "main.css": "/StalkTok/static/css/main.0b040ca7.chunk.css",
+    "main.js": "/StalkTok/static/js/main.547d5de2.chunk.js",
+    "main.js.map": "/StalkTok/static/js/main.547d5de2.chunk.js.map",
     "runtime-main.js": "/StalkTok/static/js/runtime-main.c7259d8e.js",
     "runtime-main.js.map": "/StalkTok/static/js/runtime-main.c7259d8e.js.map",
     "static/js/2.139669fc.chunk.js": "/StalkTok/static/js/2.139669fc.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.02706be7.chunk.js": "/StalkTok/static/js/3.02706be7.chunk.js",
     "static/js/3.02706be7.chunk.js.map": "/StalkTok/static/js/3.02706be7.chunk.js.map",
     "index.html": "/StalkTok/index.html",
-    "static/css/main.4b003057.chunk.css.map": "/StalkTok/static/css/main.4b003057.chunk.css.map",
+    "static/css/main.0b040ca7.chunk.css.map": "/StalkTok/static/css/main.0b040ca7.chunk.css.map",
     "static/js/2.139669fc.chunk.js.LICENSE.txt": "/StalkTok/static/js/2.139669fc.chunk.js.LICENSE.txt",
     "static/media/stalktoksfx.002d3735.mp3": "/StalkTok/static/media/stalktoksfx.002d3735.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.c7259d8e.js",
     "static/js/2.139669fc.chunk.js",
-    "static/css/main.4b003057.chunk.css",
-    "static/js/main.ca6772d7.chunk.js"
+    "static/css/main.0b040ca7.chunk.css",
+    "static/js/main.547d5de2.chunk.js"
   ]
 }
